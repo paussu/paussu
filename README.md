@@ -1,4 +1,4 @@
-# Hi, I'm Paussu 👋
+# Hi, I'm Jyri Paussu 👋
 
 I enjoy building things close to the metal: programming languages, operating-system experiments, graphics, and small games.
 
