@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Paussu 👋
 
-<!--
-**paussu/paussu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building things close to the metal: programming languages, operating-system experiments, graphics, and small games.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[JLang](https://github.com/paussu/JLang)** — a programming language project written in Go
+- **[SystemP](https://github.com/paussu/SystemP)** — experiments for learning how operating systems work
+- **[Jumper](https://github.com/paussu/Jumper)** — a raylib-powered Rust game
+- **[MatrixRain](https://github.com/paussu/MatrixRain)** — a Kotlin Android app that recreates the Matrix rain effect
+
+## Things I like working on
+
+- Systems programming
+- Game development
+- Programming language tooling
+- Graphics and rendering experiments
+
+## Featured repositories
+
+| Project | Focus |
+| --- | --- |
+| [JLang](https://github.com/paussu/JLang) | Building a programming language in Go |
+| [SystemP](https://github.com/paussu/SystemP) | Learning operating-system internals with C |
+| [JPong](https://github.com/paussu/JPong) | Pong in x86-64 assembly |
+| [JTetris](https://github.com/paussu/JTetris) | Tetris experiments with C and Rust |
+| [JSnake](https://github.com/paussu/JSnake) | Snake built with Allegro and Dear ImGui |
+| [JWordTetris](https://github.com/paussu/JWordTetris) | A text-heavy Tetris-style game in C++ |
+
+## Languages and tools showing up in my projects
+
+`Go` `C` `C++` `Rust` `Assembly` `Kotlin`
+
+Thanks for stopping by — feel free to check out the repos above.
