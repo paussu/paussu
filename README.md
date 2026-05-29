@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! I'm Jyri Paussu 👋
+# Hey there! I'm Jyri Paussu 👋 💻 Software Engineer | 🏗️ Aspiring Software Architect
 
 [![GitHub followers](https://img.shields.io/github/followers/paussu?style=social)](https://github.com/paussu)
 
